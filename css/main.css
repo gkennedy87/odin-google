@@ -123,10 +123,13 @@ body {
 }
 
 #avatar {
+    vertical-align: middle;
     height: 35px;
     width: 35px;
-    background-color: bisque;
+    background-image: url("../img/avatar.JPG");
     border-radius: 50%;
+    background-size: cover;
+    background-position: top center;
 }
 
 
